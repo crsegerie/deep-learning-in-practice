@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6abfa0e4-b050-4524-a7ec-90a07d09ef35" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1nbS8F8tfP5NOcqgob16mnYitt6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6abfa0e4-b050-4524-a7ec-90a07d09ef35" name="Default Changelist" comment="" />
+      <created>1611657135958</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611657135958</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="375" y="196" width="1092" height="706" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1611657522786">
+      <screen x="0" y="0" width="1842" height="1080" />
+    </state>
+    <state x="375" y="196" width="1092" height="706" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1842.1080@0.0.1842.1080" timestamp="1611657522786" />
+    <state x="617" y="365" key="com.intellij.ide.util.TipDialog" timestamp="1611657475889">
+      <screen x="0" y="0" width="1842" height="1080" />
+    </state>
+    <state x="617" y="365" key="com.intellij.ide.util.TipDialog/0.0.1842.1080@0.0.1842.1080" timestamp="1611657475889" />
+  </component>
+</project>
